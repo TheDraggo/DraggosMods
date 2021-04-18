@@ -7,7 +7,7 @@
   "systems": ["dnd5e"],
   "styles": [],
   "scripts": ["DraggosMod.js"],
-  "manifest": "https://github.com/TheDraggo/DraggosMods/main/module.json",
+  "manifest": "https://raw.githubusercontent.com/TheDraggo/DraggosMods/main/module.json",
   "download": "https://github.com/TheDraggo/DraggosMods/archive/main.zip",
   "minimumCoreVersion": "0.7.0",
   "compatibleCoreVersion": "0.7.8"
