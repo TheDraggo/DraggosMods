@@ -7,6 +7,8 @@
   "systems": ["dnd5e"],
   "styles": [],
   "scripts": ["DraggosMod.js"],
+  "manifest": "https://raw.githubusercontent.com/trdischat/grouproll/master/module.json",
+  "download": "https://github.com/TheDraggo/DraggosMods/archive/main.zip",
   "minimumCoreVersion": "0.7.0",
   "compatibleCoreVersion": "0.7.8"
 }
