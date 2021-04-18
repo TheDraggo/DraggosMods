@@ -1,0 +1,12 @@
+{
+  "name": "DraggosMod",
+  "title": "Draggos Super Extravagante DnD Features",
+  "description": "Neue Damagetypes, Zauberschulen, etc",
+  "version": "0.1",
+  "author": "Draggo",
+  "systems": ["dnd5e"],
+  "styles": [],
+  "scripts": ["DraggosMod.js"],
+  "minimumCoreVersion": "0.7.0",
+  "compatibleCoreVersion": "0.7.8"
+}
